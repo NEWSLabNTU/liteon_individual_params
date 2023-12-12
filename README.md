@@ -1,3 +1,3 @@
-# autoware_individual_params
+# autoware_avsystem_individual_params
 
 This repository stores parameters that change depending on each vehicle.
