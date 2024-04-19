@@ -61,7 +61,7 @@ sensor_kit_base_link:
     z: 1.49
     roll: 0.0
     pitch: 0.0
-    yaw: -1.57079633 # FIXME
+    yaw: 0.0 # FIXME
   velodyne_left_base_link:
     x: 0.76
     y: 0.0
